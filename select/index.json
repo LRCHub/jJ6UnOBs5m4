@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "革命",
+  "base_artist": "andymori",
+  "createdAt": "2026-03-15T16:05:03.898338Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "革命",
+      "artist": "KANA-BOON",
+      "has_synced": true,
+      "path": "select/01_革命_KANA-BOON.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "革命",
+      "artist": "FLOW",
+      "has_synced": true,
+      "path": "select/02_革命_FLOW.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "革命",
+      "artist": "dj TAKA with NAOKI",
+      "has_synced": false,
+      "path": "select/03_革命_dj_TAKA_with_NAOKI.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "革命",
+      "artist": "Vickeblanka",
+      "has_synced": true,
+      "path": "select/04_革命_Vickeblanka.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "革命",
+      "artist": "HY",
+      "has_synced": false,
+      "path": "select/05_革命_HY.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "革命 (Rerecorded)",
+      "artist": "HY",
+      "has_synced": true,
+      "path": "select/06_革命_(Rerecorded)_HY.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "革命",
+      "artist": "Tempalay",
+      "has_synced": false,
+      "path": "select/07_革命_Tempalay.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "革命",
+      "artist": "VK Blanka",
+      "has_synced": true,
+      "path": "select/08_革命_VK_Blanka.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "革命 (2012.02.11 ''version 21.1 fourth''/横浜アリーナ)",
+      "artist": "andymori",
+      "has_synced": true,
+      "path": "select/09_革命_(2012.02.11_''version_21.1_fourth''_横浜アリーナ)_andymori.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "革命",
+      "artist": "andymori",
+      "has_synced": true,
+      "path": "select/10_革命_andymori.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "革命",
+      "artist": "VK Blanka",
+      "has_synced": true,
+      "path": "select/11_革命_VK_Blanka.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "革命",
+      "artist": "范逸臣",
+      "has_synced": false,
+      "path": "select/12_革命_范逸臣.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "革命",
+      "artist": "Ivy to Fraudulent Game",
+      "has_synced": true,
+      "path": "select/13_革命_Ivy_to_Fraudulent_Game.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "革命",
+      "artist": "Dios／シグナルP",
+      "has_synced": true,
+      "path": "select/14_革命_Dios_シグナルP.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "革命",
+      "artist": "神崎エルザ starring ReoNa",
+      "has_synced": true,
+      "path": "select/15_革命_神崎エルザ_starring_ReoNa.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "革命",
+      "artist": "神崎エルザ & ReoNa",
+      "has_synced": true,
+      "path": "select/16_革命_神崎エルザ_&_ReoNa.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "革命",
+      "artist": "神崎エルザ",
+      "has_synced": true,
+      "path": "select/17_革命_神崎エルザ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "革命",
+      "artist": "andymori",
+      "has_synced": false,
+      "path": "select/pl_01_革命_andymori.txt"
+    }
+  ]
+}
